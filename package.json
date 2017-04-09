@@ -1,0 +1,25 @@
+{
+  "name": "restAPI_node",
+  "version": "1.0.0",
+  "description": "## REST stands for REpresentational State Transfer ## API stands for Application Programming Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joannexin/restAPI_node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joannexin/restAPI_node/issues"
+  },
+  "homepage": "https://github.com/joannexin/restAPI_node#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4"
+  }
+}
